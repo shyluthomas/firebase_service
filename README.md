@@ -2,6 +2,9 @@
 cloud function sample api using firebase
 
 # setup the firebase
+Link
+https://firebase.google.com/docs/cli#windows
+
 install the firbase cli for local
 curl -sL https://firebase.tools | bash
 
@@ -16,3 +19,13 @@ install dependencies
 npm i
 
 npm run serve
+
+
+# firebase link
+https://console.firebase.google.com/
+
+# depoly to firbase
+
+firebase deploy
+
+if we want deploy need paid account
